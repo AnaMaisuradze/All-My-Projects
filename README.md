@@ -1,6 +1,6 @@
 # All-My-Projects
-# Project Name
+# Tic Tac Toe
 
-**Live Link:** [Link to Live Project](https://anamaisuradze.github.io/NFT-preview-card-component/)
+**Live Link:** [Link to Live Project](https://anamaisuradze.github.io/my-react-app/)
 
-**Repository Link:** [Link to GitHub Repository](https://github.com/AnaMaisuradze/NFT-preview-card-component)
+**Repository Link:** [Link to GitHub Repository](https://github.com/AnaMaisuradze/my-react-app)
