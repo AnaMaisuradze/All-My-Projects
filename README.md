@@ -10,6 +10,10 @@
 
 
 # FAQ accordion
+**Technologies Used:**
+- HTML
+- Css
+- Javascript
 
 **Live Link:** [Link to Live Project](https://anamaisuradze.github.io/FAQ-accordion/)
 
@@ -17,6 +21,10 @@
 
 
 # Calculator
+**Technologies Used:**
+- HTML
+- Css
+- Javascript
 
 **Live Link:** [Link to Live Project](https://anamaisuradze.github.io/calculator/)
 
@@ -24,6 +32,10 @@
 
 
 # Launch Countdown Timer
+**Technologies Used:**
+- HTML
+- Css
+- Javascript
 
 **Live Link:** [Link to Live Project](https://anamaisuradze.github.io/Launch-countdown-timer/)
 
@@ -31,6 +43,10 @@
 
 
 # Single Page Design Portfolio
+**Technologies Used:**
+- HTML
+- Css
+- Javascript
 
 **Live Link:** [Link to Live Project]( https://anamaisuradze.github.io/Single-page-design-portfolio/)
 
@@ -38,6 +54,10 @@
 
 
 # Githu User Search App
+**Technologies Used:**
+- HTML
+- Css
+- Javascript
 
 **Live Link:** [Link to Live Project]( https://anamaisuradze.github.io/github-user-shearch-app/)
 
@@ -45,6 +65,10 @@
 
 
 # Interactive Pricing Component
+**Technologies Used:**
+- HTML
+- Css
+- Javascript
 
 **Live Link:** [Link to Live Project]( https://anamaisuradze.github.io/Interactive-Pricing-Component/)
 
@@ -52,6 +76,10 @@
 
 
 # ToDo App
+**Technologies Used:**
+- HTML
+- Css
+- Javascript
 
 **Live Link:** [Link to Live Project]( https://anamaisuradze.github.io/To-Do-app/)
 
@@ -59,6 +87,10 @@
 
 
 # Tip Calculator
+**Technologies Used:**
+- HTML
+- Css
+- Javascript
 
 **Live Link:** [Link to Live Project]( https://anamaisuradze.github.io/Tip-calculator/)
 
@@ -66,6 +98,9 @@
 
 
 # Typemaster Pre-Launch Landing Page
+**Technologies Used:**
+- HTML
+- Css
 
 **Live Link:** [Link to Live Project]( https://anamaisuradze.github.io/Typemaster-pre-launch-landing-page/)
 
@@ -73,6 +108,9 @@
 
 
 # Art Gallery
+**Technologies Used:**
+- HTML
+- Css
 
 **Live Link:** [Link to Live Project]( https://anamaisuradze.github.io/Art-Gallery/)
 
@@ -80,6 +118,9 @@
 
 
 # Fylo Landing Page
+**Technologies Used:**
+- HTML
+- Css
 
 **Live Link:** [Link to Live Project]( https://anamaisuradze.github.io/Fylo-landing-page/)
 
@@ -87,6 +128,9 @@
 
 
 # four Card Feature Section
+**Technologies Used:**
+- HTML
+- Css
 
 **Live Link:** [Link to Live Project]( https://anamaisuradze.github.io/four-card-feature-section/)
 
@@ -95,6 +139,9 @@
 
 
 # Frontent Bootcamp
+**Technologies Used:**
+- HTML
+- Bootstrap
 
 **Live Link:** [Link to Live Project]( https://anamaisuradze.github.io/Frontent-bootcamp-bootstrap-5/)
 
@@ -102,6 +149,9 @@
 
 
 # App Landing Page
+**Technologies Used:**
+- HTML
+- Css
 
 **Live Link:** [Link to Live Project]( https://anamaisuradze.github.io/App-landing-page/)
 
@@ -109,6 +159,9 @@
 
 
 # NFT Preview Card Component
+**Technologies Used:**
+- HTML
+- Css
 
 **Live Link:** [Link to Live Project]( https://anamaisuradze.github.io/NFT-preview-card-component/)
 
